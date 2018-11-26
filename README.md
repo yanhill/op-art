@@ -1,4 +1,6 @@
 # opart
-A generative OP Art made by Processing
+A generative OP Art 
 
-online, hosted on tumblr: http://interativeopart.tumblr.com/
+PROCESSING: download above
+HTML, CSS AND JAVSCRIPT: http://interativeopart.tumblr.com/
+ 
