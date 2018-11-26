@@ -1,0 +1,246 @@
+	canvas{
+		position:absolute;
+		left: 50%;
+		top: 50%;
+		background-color: black;
+		margin-top: -300px;
+		margin-left: -300px;
+	}
+	
+	.sobre {
+        position: absolute;
+        top:7%;
+        left: 12%;
+        color: #FFFFFF;
+        font-family: Helvetica;
+        font-size: 95%;
+        letter-spacing: 4px;
+	}
+	.mais {
+        position: absolute;
+        top:-9%;
+        left: 12%;
+        color: #FFFFFF;
+        font-family: Helvetica;
+        font-size: 95%;
+        letter-spacing: 4px;
+	}
+	.titulo {
+        position: absolute;
+        top: %;
+        left: 2%;
+        color: #FFFFFF;
+        font-family: Helvetica;
+        font-size: 100%;
+        letter-spacing: 4px;
+	}
+
+	.borda {
+	    position: absolute;
+	    top: 48%;
+        left: 4%;
+	    border-left: 2px solid white;
+	}
+
+	.descricao {
+        text-align: left;
+        color: #909090;
+        font-family: Helvetica;
+        font-size: 65%;
+        letter-spacing: 1px;
+        width: 190px;
+        line-height: 1.5;      
+	}
+
+    .carai {
+        position: relative;
+        float:right;
+        margin-top: 20%;
+        margin-right: 5%;
+    }
+
+
+    .pfvr2 {
+        position: relative;
+        float:right;
+        margin-top: 20%;
+        margin-right: 5%;
+        width:200px;
+        height: 150px; 
+        z-index: -6;
+    }
+
+.pfvr {
+        text-align: right;
+        position: absolute;
+        top:35%;
+        left:5%;
+        height: 150px; 
+        z-index: -6;
+    }
+
+    .instrucao{
+        position: static;
+        margin-left: 13%;
+        color: #FFFFFF;
+        font-family: Arial;
+        font-size: 95%;
+        letter-spacing: 4px;
+    }
+    .texto{
+        position: absolute;
+        top:-55%;
+        left: 19.7%;
+        color: #909090;
+        font-family: Helvetica;
+        font-size: 75%;
+        letter-spacing: 2px;
+        z-index: -6;
+    }
+    .destaque {
+        color: #fff;
+    }
+    .linha1{
+        top:32%;
+        left:12%;
+        position: absolute;
+        width: 23%;
+        background: #fff;
+    }
+	.tudo {
+	    margin-left:5%;
+	}
+	.titulo:hover{
+	    letter-spacing: 7px;
+	    transition-duration: 0.7s;
+	}
+
+.pfvr2:hover h11{
+    letter-spacing: 7px;
+    left: 3%;
+    transition-duration: 0.7s;
+}
+
+	.linha3{
+        top:7%;
+        left:12%;
+        position: absolute;
+        width: 49%;
+        background: #fff;
+       
+    }
+    .vimeo {
+        position: absolute;
+        left: 2%;
+        color: #909090;
+        font-family: Helvetica;
+        font-size: 55%;
+        letter-spacing: 2px;
+        z-index: -2;
+	}
+	.pfvr3:hover hr{
+        width: 81.3%;
+	}
+        
+	.tridown{
+	    position:absolute;
+	    font-size: 90%;
+	    color: #909090;
+	    top:100px;
+	    left:170px;
+	    z-index: -6;
+	}
+	.triright{
+	    position:absolute;
+	    font-size: 85%;
+	    color: #909090;
+	    top:72px;
+	    left:185px;
+	    z-index: -6;
+	}
+	.triup{
+	    position:absolute;
+	    font-size: 90%;
+	    color: #909090;
+	    top:70px;
+	    left:170px;
+	    z-index: -6;
+	}
+	.trileft{
+	    position:absolute;
+	    font-size: 85%;
+	    color: #909090;
+	    top: 68px;
+	    left: 155px;
+	    z-index: -6;
+	}
+	
+	.mouse{
+	    position:static;
+        float: right;
+        margin-top: 70%;
+        color: #909090;
+        font-family: Helvetica;
+        font-size: 70%;
+        letter-spacing: 2px;
+        z-index: -6;
+	}
+	.teclado{
+	    position: absolute;
+        text-align: left;
+        top:93%;
+        left: 0%;
+        color: #909090;
+        font-family: Helvetica;
+        font-size: 70%;
+        letter-spacing: 2px;
+        z-index: -6;
+	}
+
+	.num{
+	    position: absolute;
+	    text-align: left;
+        top: 50%;
+        left: 2%;
+        color: #909090;
+        font-family: Helvetica;
+        font-size: 75%;
+        letter-spacing: 2px;
+        z-index: -6;
+        line-height: 1.5;     
+	}
+
+
+.instrucao{
+	    position: absolute;
+        top: 5%;
+        left: 13%;
+        color: #FFFS;
+        font-family: Helvetica;
+        font-size: 75%;
+        letter-spacing: 2px;
+        z-index: -6;
+        line-height: 1.5;     
+	}
+
+	
+a:link {
+    color: white;
+}
+
+a:visited {
+    color: white;
+}
+
+/* mouse over link */
+a:hover {
+    font-weight: 900; 
+    
+ }
+
+/* selected link */
+a:active {
+    font-weight: 900;    
+    font-style: italic;
+}
+
